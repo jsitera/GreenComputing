@@ -1,4 +1,7 @@
-# Experiments with (green computing) data, FAIR and repositories
+# Experiments with green computing data
+## What data?
 
-## Use cases and examples
-### Get subset of data from the repository
+
+
+# How-to work with FAIR data repositories
+## Get selected data from the repository
