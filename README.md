@@ -9,3 +9,4 @@ When we can select location of a datacenter, it's the first option. Temperatures
 
 # How-to work with FAIR data repositories
 ## Get selected data from the repository
+* Select and download particular file (or files) from given dataset - [HERE - second cell of the notebook](/examples/ERA5-temperature.ipynb) is an example using Zenodo API via requests.
