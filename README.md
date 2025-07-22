@@ -1,7 +1,7 @@
 # Experiments with green computing data
 ## Data about climate
-When we can select location of a datacenter, it's easy. Temperatures in Czech region around Prague ([Jupyter notebook](/examples/ERA5-temperature.ipynb))
-![](images/t2mCZ012020.png)
+When we can select location of a datacenter, it's the first option. Temperatures in Czech region around Prague ([Jupyter notebook](/examples/ERA5-temperature.ipynb))
+![](images/t2mCZ012020.png) and in Findland (LUMI in Kajaani). ![](images/t2mFI1D2020.png) The temperatures are displayed on the same scale with external values included in the max and min values, so all days under -5 are counted in the most dark color.
 
 ## Carbon intensity of electricity
 
