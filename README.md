@@ -7,6 +7,10 @@ Please note that the free cooling (cooling by radiator without heatpump) is poss
 Let's see the carbon intensity of electricity in the same graph view, so the green areas are the lowest carbon intensity.
 ![](images/CO2I-CZ-2024-heatmap.png)
 The cleanest electricity is correlated with times when the free cooling doesn't work (in central and southern Europe).
+## Price of electricity
+The electricity price per hour in the Czech Republic in the year 2024.
+![](images/heatmap_electricity_price_CZ_2024.png)
+Prices are from day ahead prices setup.
 ## Workload CPU intensity
 ![](images/Adan15-2024-heatmap.png)
 # How to work with FAIR data repositories
